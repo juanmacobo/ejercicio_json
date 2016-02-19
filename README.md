@@ -1,7 +1,3 @@
-# ejercicio_json
-
-url ejercicio json: https://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/portalero.json
-
 #Enunciado ejercicio json:
 1- Lista el nombre de todas las calles de Zaragoza.
 
