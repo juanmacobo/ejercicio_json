@@ -1,0 +1,1593 @@
+{
+    "totalCount": 39789,
+    "start": 0,
+    "rows": 50,
+    "result": [
+        {
+            "id": 5263,
+            "calle": {
+                "id": 560,
+                "title": "ALCANADRE, RIO",
+                "title_ext": "RÍO ALCANADRE",
+                "tipo": {
+                    "code": "CL",
+                    "name": "Calle",
+                    "short_name": "Calle",
+                    "abbr": "Cl.",
+                    "scheme": "http://www.zaragoza.es/api/kos/urbanismo-infraestructuras/callejero/tipovia",
+                    "match": "http://vocab.linkeddata.es/datosabiertos/kos/urbanismo-infraestructuras/tipo-via/CALLE"
+                }
+            },
+            "numero": 7,
+            "junta": {
+                "id": 2,
+                "title": "Junta Municipal La Almozara"
+            },
+            "etiqueta": "7",
+            "codPos": "50003",
+            "lastUpdated": "2014-11-13T00:00:00Z",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    675423.63,
+                    4614461.46
+                ]
+            }
+        },
+        {
+            "id": 5264,
+            "calle": {
+                "id": 640,
+                "title": "ALCOBER, ARNALDO",
+                "title_ext": "ARNALDO ALCOBER",
+                "tipo": {
+                    "code": "CL",
+                    "name": "Calle",
+                    "short_name": "Calle",
+                    "abbr": "Cl.",
+                    "scheme": "http://www.zaragoza.es/api/kos/urbanismo-infraestructuras/callejero/tipovia",
+                    "match": "http://vocab.linkeddata.es/datosabiertos/kos/urbanismo-infraestructuras/tipo-via/CALLE"
+                }
+            },
+            "numero": 7,
+            "junta": {
+                "id": 3,
+                "title": "Junta Municipal Casco Histórico"
+            },
+            "etiqueta": "7",
+            "codPos": "50002",
+            "lastUpdated": "2014-11-13T00:00:00Z",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    677288.66,
+                    4613564.03
+                ]
+            }
+        },
+        {
+            "id": 5265,
+            "calle": {
+                "id": 30518,
+                "title": "SERNA MONTALVO,CARMEN ",
+                "title_ext": "CARMEN SERNA MONTALVO (SIERRA DE ALCUBIERRE)",
+                "tipo": {
+                    "code": "CL",
+                    "name": "Calle",
+                    "short_name": "Calle",
+                    "abbr": "Cl.",
+                    "scheme": "http://www.zaragoza.es/api/kos/urbanismo-infraestructuras/callejero/tipovia",
+                    "match": "http://vocab.linkeddata.es/datosabiertos/kos/urbanismo-infraestructuras/tipo-via/CALLE"
+                }
+            },
+            "numero": 7,
+            "junta": {
+                "id": 6,
+                "title": "Junta Municipal El Rabal"
+            },
+            "etiqueta": "7",
+            "codPos": "50014",
+            "lastUpdated": "2014-11-13T00:00:00Z",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    677827.02,
+                    4614774.07
+                ]
+            }
+        },
+        {
+            "id": 5267,
+            "calle": {
+                "id": 800,
+                "title": "ALEMANIA",
+                "title_ext": "ALEMANIA",
+                "tipo": {
+                    "code": "CL",
+                    "name": "Calle",
+                    "short_name": "Calle",
+                    "abbr": "Cl.",
+                    "scheme": "http://www.zaragoza.es/api/kos/urbanismo-infraestructuras/callejero/tipovia",
+                    "match": "http://vocab.linkeddata.es/datosabiertos/kos/urbanismo-infraestructuras/tipo-via/CALLE"
+                }
+            },
+            "numero": 7,
+            "junta": {
+                "id": 5,
+                "title": "Junta Municipal Delicias"
+            },
+            "etiqueta": "5-7",
+            "codPos": "50010",
+            "lastUpdated": "2014-11-13T00:00:00Z",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    674986.72,
+                    4613479.78
+                ]
+            }
+        },
+        {
+            "id": 5269,
+            "calle": {
+                "id": 1040,
+                "title": "ALMAGRO",
+                "title_ext": "ALMAGRO",
+                "tipo": {
+                    "code": "CL",
+                    "name": "Calle",
+                    "short_name": "Calle",
+                    "abbr": "Cl.",
+                    "scheme": "http://www.zaragoza.es/api/kos/urbanismo-infraestructuras/callejero/tipovia",
+                    "match": "http://vocab.linkeddata.es/datosabiertos/kos/urbanismo-infraestructuras/tipo-via/CALLE"
+                }
+            },
+            "numero": 7,
+            "junta": {
+                "id": 4,
+                "title": "Junta Municipal Centro"
+            },
+            "etiqueta": "7",
+            "codPos": "50004",
+            "lastUpdated": "2014-11-13T00:00:00Z",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    675989.71,
+                    4613097.31
+                ]
+            }
+        },
+        {
+            "id": 5270,
+            "calle": {
+                "id": 1120,
+                "title": "ALMOZARA, AV. DE LA",
+                "title_ext": "DE LA ALMOZARA",
+                "tipo": {
+                    "code": "AV",
+                    "name": "Avenida",
+                    "short_name": "Avenida",
+                    "abbr": "Av.",
+                    "scheme": "http://www.zaragoza.es/api/kos/urbanismo-infraestructuras/callejero/tipovia",
+                    "match": "http://vocab.linkeddata.es/datosabiertos/kos/urbanismo-infraestructuras/tipo-via/AVDA"
+                }
+            },
+            "numero": 7,
+            "junta": {
+                "id": 2,
+                "title": "Junta Municipal La Almozara"
+            },
+            "etiqueta": "7",
+            "codPos": "50003",
+            "lastUpdated": "2014-11-13T00:00:00Z",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    675291.37,
+                    4614466.77
+                ]
+            }
+        },
+        {
+            "id": 5271,
+            "calle": {
+                "id": 1160,
+                "title": "ALMUNIA D DOÑA GODINA",
+                "title_ext": "LA ALMUNIA DE DOÑA GODINA",
+                "tipo": {
+                    "code": "CL",
+                    "name": "Calle",
+                    "short_name": "Calle",
+                    "abbr": "Cl.",
+                    "scheme": "http://www.zaragoza.es/api/kos/urbanismo-infraestructuras/callejero/tipovia",
+                    "match": "http://vocab.linkeddata.es/datosabiertos/kos/urbanismo-infraestructuras/tipo-via/CALLE"
+                }
+            },
+            "numero": 7,
+            "junta": {
+                "id": 2,
+                "title": "Junta Municipal La Almozara"
+            },
+            "etiqueta": "5-7-9",
+            "codPos": "50003",
+            "lastUpdated": "2014-11-13T00:00:00Z",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    675026.08,
+                    4614491.4
+                ]
+            }
+        },
+        {
+            "id": 5272,
+            "calle": {
+                "id": 16660,
+                "title": "LIBERTAD",
+                "title_ext": "LIBERTAD",
+                "tipo": {
+                    "code": "CLP",
+                    "name": "Calle peatonal",
+                    "short_name": "Calle",
+                    "abbr": "Cl.",
+                    "scheme": "http://www.zaragoza.es/api/kos/urbanismo-infraestructuras/callejero/tipovia",
+                    "match": "http://vocab.linkeddata.es/datosabiertos/kos/urbanismo-infraestructuras/tipo-via/CALLE"
+                }
+            },
+            "numero": 7,
+            "junta": {
+                "id": 3,
+                "title": "Junta Municipal Casco Histórico"
+            },
+            "etiqueta": "7",
+            "codPos": "50003",
+            "lastUpdated": "2014-11-13T00:00:00Z",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    676605.35,
+                    4613666.03
+                ]
+            }
+        },
+        {
+            "id": 5276,
+            "calle": {
+                "id": 16880,
+                "title": "LOARRE, CASTILLO DE",
+                "title_ext": "CASTILLO DE LOARRE",
+                "tipo": {
+                    "code": "CL",
+                    "name": "Calle",
+                    "short_name": "Calle",
+                    "abbr": "Cl.",
+                    "scheme": "http://www.zaragoza.es/api/kos/urbanismo-infraestructuras/callejero/tipovia",
+                    "match": "http://vocab.linkeddata.es/datosabiertos/kos/urbanismo-infraestructuras/tipo-via/CALLE"
+                }
+            },
+            "numero": 7,
+            "junta": {
+                "id": 10,
+                "title": "Junta Municipal Torrero"
+            },
+            "etiqueta": "7",
+            "codPos": "50007",
+            "lastUpdated": "2014-11-13T00:00:00Z",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    675825.48,
+                    4610960.7
+                ]
+            }
+        },
+        {
+            "id": 5280,
+            "calle": {
+                "id": 17000,
+                "title": "LOGROÑO, AUTOVIA  CST",
+                "title_ext": "LOGROÑO",
+                "tipo": {
+                    "code": "CT",
+                    "name": "Carretera",
+                    "short_name": "Carretera",
+                    "abbr": "Crt.",
+                    "scheme": "http://www.zaragoza.es/api/kos/urbanismo-infraestructuras/callejero/tipovia",
+                    "match": "http://vocab.linkeddata.es/datosabiertos/kos/urbanismo-infraestructuras/tipo-via/CTRA"
+                }
+            },
+            "numero": 7,
+            "junta": {
+                "id": 16,
+                "title": "Junta Vecinal Casetas"
+            },
+            "barrio": {
+                "id": 3,
+                "title": "Arrabal"
+            },
+            "etiqueta": "7",
+            "codPos": "50620",
+            "lastUpdated": "2014-11-13T00:00:00Z",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    664258.56,
+                    4620552.56
+                ]
+            }
+        },
+        {
+            "id": 5281,
+            "calle": {
+                "id": 17060,
+                "title": "LOPE DE VEGA",
+                "title_ext": "LOPE DE VEGA",
+                "tipo": {
+                    "code": "CL",
+                    "name": "Calle",
+                    "short_name": "Calle",
+                    "abbr": "Cl.",
+                    "scheme": "http://www.zaragoza.es/api/kos/urbanismo-infraestructuras/callejero/tipovia",
+                    "match": "http://vocab.linkeddata.es/datosabiertos/kos/urbanismo-infraestructuras/tipo-via/CALLE"
+                }
+            },
+            "numero": 7,
+            "junta": {
+                "id": 8,
+                "title": "Junta Municipal Oliver-Valdefierro"
+            },
+            "etiqueta": "7",
+            "codPos": "50011",
+            "lastUpdated": "2014-11-13T00:00:00Z",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    673121.29,
+                    4613387.88
+                ]
+            }
+        },
+        {
+            "id": 5286,
+            "calle": {
+                "id": 17220,
+                "title": "LORENZO PARDO, MANUEL",
+                "title_ext": "MANUEL LORENZO PARDO",
+                "tipo": {
+                    "code": "CL",
+                    "name": "Calle",
+                    "short_name": "Calle",
+                    "abbr": "Cl.",
+                    "scheme": "http://www.zaragoza.es/api/kos/urbanismo-infraestructuras/callejero/tipovia",
+                    "match": "http://vocab.linkeddata.es/datosabiertos/kos/urbanismo-infraestructuras/tipo-via/CALLE"
+                }
+            },
+            "numero": 7,
+            "junta": {
+                "id": 9,
+                "title": "Junta Municipal San José"
+            },
+            "etiqueta": "7",
+            "codPos": "50008",
+            "lastUpdated": "2014-11-13T00:00:00Z",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    677105.11,
+                    4612499.2
+                ]
+            }
+        },
+        {
+            "id": 5290,
+            "calle": {
+                "id": 17320,
+                "title": "LOZANO MONZON,R.(DR.)",
+                "title_ext": "DOCTOR RICARDO LOZANO MONZÓN",
+                "tipo": {
+                    "code": "CL",
+                    "name": "Calle",
+                    "short_name": "Calle",
+                    "abbr": "Cl.",
+                    "scheme": "http://www.zaragoza.es/api/kos/urbanismo-infraestructuras/callejero/tipovia",
+                    "match": "http://vocab.linkeddata.es/datosabiertos/kos/urbanismo-infraestructuras/tipo-via/CALLE"
+                }
+            },
+            "numero": 7,
+            "junta": {
+                "id": 11,
+                "title": "Junta Municipal Universidad"
+            },
+            "etiqueta": "7",
+            "codPos": "50006",
+            "lastUpdated": "2014-11-13T00:00:00Z",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    675958.02,
+                    4612289.08
+                ]
+            }
+        },
+        {
+            "id": 5292,
+            "calle": {
+                "id": 17360,
+                "title": "LUCAS GALLEGO, PEDRO",
+                "title_ext": "PEDRO LUCAS GALLEGO",
+                "tipo": {
+                    "code": "CL",
+                    "name": "Calle",
+                    "short_name": "Calle",
+                    "abbr": "Cl.",
+                    "scheme": "http://www.zaragoza.es/api/kos/urbanismo-infraestructuras/callejero/tipovia",
+                    "match": "http://vocab.linkeddata.es/datosabiertos/kos/urbanismo-infraestructuras/tipo-via/CALLE"
+                }
+            },
+            "numero": 7,
+            "junta": {
+                "id": 5,
+                "title": "Junta Municipal Delicias"
+            },
+            "etiqueta": "7",
+            "codPos": "50009",
+            "lastUpdated": "2014-11-13T00:00:00Z",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    674704.2,
+                    4612814.12
+                ]
+            }
+        },
+        {
+            "id": 6665,
+            "calle": {
+                "id": 7380,
+                "title": "CERRADA (DOCTOR)",
+                "title_ext": "DOCTOR CERRADA",
+                "tipo": {
+                    "code": "CL",
+                    "name": "Calle",
+                    "short_name": "Calle",
+                    "abbr": "Cl.",
+                    "scheme": "http://www.zaragoza.es/api/kos/urbanismo-infraestructuras/callejero/tipovia",
+                    "match": "http://vocab.linkeddata.es/datosabiertos/kos/urbanismo-infraestructuras/tipo-via/CALLE"
+                }
+            },
+            "numero": 8,
+            "junta": {
+                "id": 4,
+                "title": "Junta Municipal Centro"
+            },
+            "etiqueta": "8",
+            "codPos": "50005",
+            "lastUpdated": "2014-11-13T00:00:00Z",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    676016.31,
+                    4613044.84
+                ]
+            }
+        },
+        {
+            "id": 6670,
+            "calle": {
+                "id": 7475,
+                "title": "CINCO DE MARZO    CST",
+                "title_ext": "CINCO DE MARZO",
+                "tipo": {
+                    "code": "CL",
+                    "name": "Calle",
+                    "short_name": "Calle",
+                    "abbr": "Cl.",
+                    "scheme": "http://www.zaragoza.es/api/kos/urbanismo-infraestructuras/callejero/tipovia",
+                    "match": "http://vocab.linkeddata.es/datosabiertos/kos/urbanismo-infraestructuras/tipo-via/CALLE"
+                }
+            },
+            "numero": 8,
+            "junta": {
+                "id": 16,
+                "title": "Junta Vecinal Casetas"
+            },
+            "barrio": {
+                "id": 3,
+                "title": "Arrabal"
+            },
+            "etiqueta": "8",
+            "codPos": "50620",
+            "lastUpdated": "2014-11-13T00:00:00Z",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    664061.74,
+                    4620983.4
+                ]
+            }
+        },
+        {
+            "id": 6672,
+            "calle": {
+                "id": 7500,
+                "title": "CINEGIO",
+                "title_ext": "CINEGIO",
+                "tipo": {
+                    "code": "CLP",
+                    "name": "Calle peatonal",
+                    "short_name": "Calle",
+                    "abbr": "Cl.",
+                    "scheme": "http://www.zaragoza.es/api/kos/urbanismo-infraestructuras/callejero/tipovia",
+                    "match": "http://vocab.linkeddata.es/datosabiertos/kos/urbanismo-infraestructuras/tipo-via/CALLE"
+                }
+            },
+            "numero": 8,
+            "junta": {
+                "id": 3,
+                "title": "Junta Municipal Casco Histórico"
+            },
+            "etiqueta": "6-8",
+            "codPos": "50003",
+            "lastUpdated": "2014-11-13T00:00:00Z",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    676651.62,
+                    4613601.05
+                ]
+            }
+        },
+        {
+            "id": 6675,
+            "calle": {
+                "id": 7580,
+                "title": "CIUDAD REAL",
+                "title_ext": "CIUDAD REAL",
+                "tipo": {
+                    "code": "CLP",
+                    "name": "Calle peatonal",
+                    "short_name": "Calle",
+                    "abbr": "Cl.",
+                    "scheme": "http://www.zaragoza.es/api/kos/urbanismo-infraestructuras/callejero/tipovia",
+                    "match": "http://vocab.linkeddata.es/datosabiertos/kos/urbanismo-infraestructuras/tipo-via/CALLE"
+                }
+            },
+            "numero": 8,
+            "junta": {
+                "id": 6,
+                "title": "Junta Municipal El Rabal"
+            },
+            "etiqueta": "8",
+            "codPos": "50014",
+            "lastUpdated": "2014-11-13T00:00:00Z",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    678232.08,
+                    4614645.27
+                ]
+            }
+        },
+        {
+            "id": 6677,
+            "calle": {
+                "id": 7670,
+                "title": "CLAVERIA, BR      GRP",
+                "title_ext": "CLAVERÍA",
+                "tipo": {
+                    "code": "BR",
+                    "name": "Barrio",
+                    "short_name": "Barrio",
+                    "abbr": "Br.",
+                    "scheme": "http://www.zaragoza.es/api/kos/urbanismo-infraestructuras/callejero/tipovia",
+                    "match": "http://vocab.linkeddata.es/datosabiertos/kos/urbanismo-infraestructuras/tipo-via/BARRO"
+                }
+            },
+            "numero": 8,
+            "junta": {
+                "id": 17,
+                "title": "Junta Vecinal Garrapinillos"
+            },
+            "barrio": {
+                "id": 4,
+                "title": "Casco Histórico"
+            },
+            "etiqueta": "8",
+            "codPos": "50190",
+            "lastUpdated": "2014-11-13T00:00:00Z",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    663079.57,
+                    4617270.16
+                ]
+            }
+        },
+        {
+            "id": 6682,
+            "calle": {
+                "id": 8090,
+                "title": "COMIN ROS,ALFONSO C.",
+                "title_ext": "ALFONSO CARLOS COMÍN ROS",
+                "tipo": {
+                    "code": "CL",
+                    "name": "Calle",
+                    "short_name": "Calle",
+                    "abbr": "Cl.",
+                    "scheme": "http://www.zaragoza.es/api/kos/urbanismo-infraestructuras/callejero/tipovia",
+                    "match": "http://vocab.linkeddata.es/datosabiertos/kos/urbanismo-infraestructuras/tipo-via/CALLE"
+                }
+            },
+            "numero": 8,
+            "junta": {
+                "id": 5,
+                "title": "Junta Municipal Delicias"
+            },
+            "etiqueta": "8",
+            "codPos": "50017",
+            "lastUpdated": "2014-11-13T00:00:00Z",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    673697.52,
+                    4613728.54
+                ]
+            }
+        },
+        {
+            "id": 6687,
+            "calle": {
+                "id": 8220,
+                "title": "CONTAMINA",
+                "title_ext": "CONTAMINA",
+                "tipo": {
+                    "code": "CL",
+                    "name": "Calle",
+                    "short_name": "Calle",
+                    "abbr": "Cl.",
+                    "scheme": "http://www.zaragoza.es/api/kos/urbanismo-infraestructuras/callejero/tipovia",
+                    "match": "http://vocab.linkeddata.es/datosabiertos/kos/urbanismo-infraestructuras/tipo-via/CALLE"
+                }
+            },
+            "numero": 8,
+            "junta": {
+                "id": 3,
+                "title": "Junta Municipal Casco Histórico"
+            },
+            "etiqueta": "8",
+            "codPos": "50003",
+            "lastUpdated": "2014-11-13T00:00:00Z",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    676521.08,
+                    4613858.34
+                ]
+            }
+        },
+        {
+            "id": 6689,
+            "calle": {
+                "id": 8360,
+                "title": "CORRALE, JACINTO",
+                "title_ext": "JACINTO CORRALE",
+                "tipo": {
+                    "code": "CL",
+                    "name": "Calle",
+                    "short_name": "Calle",
+                    "abbr": "Cl.",
+                    "scheme": "http://www.zaragoza.es/api/kos/urbanismo-infraestructuras/callejero/tipovia",
+                    "match": "http://vocab.linkeddata.es/datosabiertos/kos/urbanismo-infraestructuras/tipo-via/CALLE"
+                }
+            },
+            "numero": 8,
+            "junta": {
+                "id": 6,
+                "title": "Junta Municipal El Rabal"
+            },
+            "etiqueta": "8-10",
+            "codPos": "50014",
+            "lastUpdated": "2014-11-13T00:00:00Z",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    677486.57,
+                    4614241.19
+                ]
+            }
+        },
+        {
+            "id": 6694,
+            "calle": {
+                "id": 8520,
+                "title": "COSTA, JOAQUIN",
+                "title_ext": "JOAQUÍN COSTA",
+                "tipo": {
+                    "code": "CL",
+                    "name": "Calle",
+                    "short_name": "Calle",
+                    "abbr": "Cl.",
+                    "scheme": "http://www.zaragoza.es/api/kos/urbanismo-infraestructuras/callejero/tipovia",
+                    "match": "http://vocab.linkeddata.es/datosabiertos/kos/urbanismo-infraestructuras/tipo-via/CALLE"
+                }
+            },
+            "numero": 8,
+            "junta": {
+                "id": 4,
+                "title": "Junta Municipal Centro"
+            },
+            "etiqueta": "8",
+            "codPos": "50001",
+            "lastUpdated": "2014-11-13T00:00:00Z",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    676520.64,
+                    4613157.27
+                ]
+            }
+        },
+        {
+            "id": 6695,
+            "calle": {
+                "id": 8530,
+                "title": "COSTA, PL JOAQUIN CST",
+                "title_ext": "JOAQUÍN COSTA",
+                "tipo": {
+                    "code": "PL",
+                    "name": "Plaza",
+                    "short_name": "Plaza",
+                    "abbr": "Pl.",
+                    "scheme": "http://www.zaragoza.es/api/kos/urbanismo-infraestructuras/callejero/tipovia",
+                    "match": "http://vocab.linkeddata.es/datosabiertos/kos/urbanismo-infraestructuras/tipo-via/PLAZA"
+                }
+            },
+            "numero": 8,
+            "junta": {
+                "id": 16,
+                "title": "Junta Vecinal Casetas"
+            },
+            "barrio": {
+                "id": 3,
+                "title": "Arrabal"
+            },
+            "etiqueta": "8",
+            "codPos": "50620",
+            "lastUpdated": "2014-11-13T00:00:00Z",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    664080.89,
+                    4620958.78
+                ]
+            }
+        },
+        {
+            "id": 8676,
+            "calle": {
+                "id": 6580,
+                "title": "CASPE, AV.COMPROMISO",
+                "title_ext": "COMPROMISO DE CASPE",
+                "tipo": {
+                    "code": "AV",
+                    "name": "Avenida",
+                    "short_name": "Avenida",
+                    "abbr": "Av.",
+                    "scheme": "http://www.zaragoza.es/api/kos/urbanismo-infraestructuras/callejero/tipovia",
+                    "match": "http://vocab.linkeddata.es/datosabiertos/kos/urbanismo-infraestructuras/tipo-via/AVDA"
+                }
+            },
+            "numero": 11,
+            "junta": {
+                "id": 7,
+                "title": "Junta Municipal Las Fuentes"
+            },
+            "etiqueta": "11",
+            "codPos": "50002",
+            "lastUpdated": "2014-11-13T00:00:00Z",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    677428.57,
+                    4612894.99
+                ]
+            }
+        },
+        {
+            "id": 8678,
+            "calle": {
+                "id": 6640,
+                "title": "CASTELLAR, EL",
+                "title_ext": "EL CASTELLAR",
+                "tipo": {
+                    "code": "CL",
+                    "name": "Calle",
+                    "short_name": "Calle",
+                    "abbr": "Cl.",
+                    "scheme": "http://www.zaragoza.es/api/kos/urbanismo-infraestructuras/callejero/tipovia",
+                    "match": "http://vocab.linkeddata.es/datosabiertos/kos/urbanismo-infraestructuras/tipo-via/CALLE"
+                }
+            },
+            "numero": 11,
+            "junta": {
+                "id": 10,
+                "title": "Junta Municipal Torrero"
+            },
+            "etiqueta": "11",
+            "codPos": "50007",
+            "lastUpdated": "2014-11-13T00:00:00Z",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    676407.87,
+                    4610931.97
+                ]
+            }
+        },
+        {
+            "id": 8679,
+            "calle": {
+                "id": 6760,
+                "title": "CASTILLA",
+                "title_ext": "CASTILLA",
+                "tipo": {
+                    "code": "CL",
+                    "name": "Calle",
+                    "short_name": "Calle",
+                    "abbr": "Cl.",
+                    "scheme": "http://www.zaragoza.es/api/kos/urbanismo-infraestructuras/callejero/tipovia",
+                    "match": "http://vocab.linkeddata.es/datosabiertos/kos/urbanismo-infraestructuras/tipo-via/CALLE"
+                }
+            },
+            "numero": 11,
+            "junta": {
+                "id": 5,
+                "title": "Junta Municipal Delicias"
+            },
+            "etiqueta": "7-11",
+            "codPos": "50009",
+            "lastUpdated": "2014-11-13T00:00:00Z",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    674044.85,
+                    4612447.06
+                ]
+            }
+        },
+        {
+            "id": 8680,
+            "calle": {
+                "id": 6780,
+                "title": "CASTILLA, COMUNEROS D",
+                "title_ext": "COMUNEROS DE CASTILLA",
+                "tipo": {
+                    "code": "CL",
+                    "name": "Calle",
+                    "short_name": "Calle",
+                    "abbr": "Cl.",
+                    "scheme": "http://www.zaragoza.es/api/kos/urbanismo-infraestructuras/callejero/tipovia",
+                    "match": "http://vocab.linkeddata.es/datosabiertos/kos/urbanismo-infraestructuras/tipo-via/CALLE"
+                }
+            },
+            "numero": 11,
+            "junta": {
+                "id": 7,
+                "title": "Junta Municipal Las Fuentes"
+            },
+            "etiqueta": "11",
+            "codPos": "50002",
+            "lastUpdated": "2014-11-13T00:00:00Z",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    678416.13,
+                    4613374.49
+                ]
+            }
+        },
+        {
+            "id": 8681,
+            "calle": {
+                "id": 6840,
+                "title": "CASTILLO, MARIANO",
+                "title_ext": "MARIANO CASTILLO",
+                "tipo": {
+                    "code": "CL",
+                    "name": "Calle",
+                    "short_name": "Calle",
+                    "abbr": "Cl.",
+                    "scheme": "http://www.zaragoza.es/api/kos/urbanismo-infraestructuras/callejero/tipovia",
+                    "match": "http://vocab.linkeddata.es/datosabiertos/kos/urbanismo-infraestructuras/tipo-via/CALLE"
+                }
+            },
+            "numero": 11,
+            "junta": {
+                "id": 2,
+                "title": "Junta Municipal La Almozara"
+            },
+            "etiqueta": "11",
+            "codPos": "50003",
+            "lastUpdated": "2014-11-13T00:00:00Z",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    675463.23,
+                    4614438.67
+                ]
+            }
+        },
+        {
+            "id": 8686,
+            "calle": {
+                "id": 7108,
+                "title": "CELAYA,GABRIEL(POETA)",
+                "title_ext": "POETA GABRIEL CELAYA",
+                "tipo": {
+                    "code": "CL",
+                    "name": "Calle",
+                    "short_name": "Calle",
+                    "abbr": "Cl.",
+                    "scheme": "http://www.zaragoza.es/api/kos/urbanismo-infraestructuras/callejero/tipovia",
+                    "match": "http://vocab.linkeddata.es/datosabiertos/kos/urbanismo-infraestructuras/tipo-via/CALLE"
+                }
+            },
+            "numero": 11,
+            "junta": {
+                "id": 1,
+                "title": "Junta Municipal Actur - Rey Fernando"
+            },
+            "etiqueta": "11-13",
+            "codPos": "50018",
+            "lastUpdated": "2014-11-13T00:00:00Z",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    675947.66,
+                    4615564.98
+                ]
+            }
+        },
+        {
+            "id": 8688,
+            "calle": {
+                "id": 7180,
+                "title": "CENIA, LA         SIS",
+                "title_ext": "LA CENIA",
+                "tipo": {
+                    "code": "CL",
+                    "name": "Calle",
+                    "short_name": "Calle",
+                    "abbr": "Cl.",
+                    "scheme": "http://www.zaragoza.es/api/kos/urbanismo-infraestructuras/callejero/tipovia",
+                    "match": "http://vocab.linkeddata.es/datosabiertos/kos/urbanismo-infraestructuras/tipo-via/CALLE"
+                }
+            },
+            "numero": 11,
+            "junta": {
+                "id": 13,
+                "title": "Junta Municipal Santa Isabel"
+            },
+            "etiqueta": "11",
+            "codPos": "50016",
+            "lastUpdated": "2014-11-13T00:00:00Z",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    680553.14,
+                    4615233.62
+                ]
+            }
+        },
+        {
+            "id": 8689,
+            "calle": {
+                "id": 7220,
+                "title": "CENTRO",
+                "title_ext": "CENTRO",
+                "tipo": {
+                    "code": "CL",
+                    "name": "Calle",
+                    "short_name": "Calle",
+                    "abbr": "Cl.",
+                    "scheme": "http://www.zaragoza.es/api/kos/urbanismo-infraestructuras/callejero/tipovia",
+                    "match": "http://vocab.linkeddata.es/datosabiertos/kos/urbanismo-infraestructuras/tipo-via/CALLE"
+                }
+            },
+            "numero": 11,
+            "junta": {
+                "id": 12,
+                "title": "Junta Municipal Casablanca"
+            },
+            "etiqueta": "11",
+            "codPos": "50009",
+            "lastUpdated": "2014-11-13T00:00:00Z",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    674238.6,
+                    4611216.57
+                ]
+            }
+        },
+        {
+            "id": 8692,
+            "calle": {
+                "id": 7410,
+                "title": "CESAR AUGUSTO, AVDA",
+                "title_ext": "CÉSAR AUGUSTO",
+                "tipo": {
+                    "code": "AV",
+                    "name": "Avenida",
+                    "short_name": "Avenida",
+                    "abbr": "Av.",
+                    "scheme": "http://www.zaragoza.es/api/kos/urbanismo-infraestructuras/callejero/tipovia",
+                    "match": "http://vocab.linkeddata.es/datosabiertos/kos/urbanismo-infraestructuras/tipo-via/AVDA"
+                }
+            },
+            "numero": 11,
+            "junta": {
+                "id": 3,
+                "title": "Junta Municipal Casco Histórico"
+            },
+            "etiqueta": "11",
+            "codPos": "50004",
+            "lastUpdated": "2014-11-13T00:00:00Z",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    676103.64,
+                    4613388.03
+                ]
+            }
+        },
+        {
+            "id": 8694,
+            "calle": {
+                "id": 2745,
+                "title": "ASCASO BUDRIA,JOAQUIN ",
+                "title_ext": "JOAQUÍN ASCASO BUDRÍA (CINCO DE NOVIEMBRE)",
+                "tipo": {
+                    "code": "CL",
+                    "name": "Calle",
+                    "short_name": "Calle",
+                    "abbr": "Cl.",
+                    "scheme": "http://www.zaragoza.es/api/kos/urbanismo-infraestructuras/callejero/tipovia",
+                    "match": "http://vocab.linkeddata.es/datosabiertos/kos/urbanismo-infraestructuras/tipo-via/CALLE"
+                }
+            },
+            "numero": 11,
+            "junta": {
+                "id": 10,
+                "title": "Junta Municipal Torrero"
+            },
+            "etiqueta": "11",
+            "codPos": "50007",
+            "lastUpdated": "2014-11-13T00:00:00Z",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    676072.74,
+                    4611092.8
+                ]
+            }
+        },
+        {
+            "id": 8697,
+            "calle": {
+                "id": 7610,
+                "title": "CLARET, PADRE     MVR",
+                "title_ext": "PADRE CLARET",
+                "tipo": {
+                    "code": "CL",
+                    "name": "Calle",
+                    "short_name": "Calle",
+                    "abbr": "Cl.",
+                    "scheme": "http://www.zaragoza.es/api/kos/urbanismo-infraestructuras/callejero/tipovia",
+                    "match": "http://vocab.linkeddata.es/datosabiertos/kos/urbanismo-infraestructuras/tipo-via/CALLE"
+                }
+            },
+            "numero": 11,
+            "junta": {
+                "id": 22,
+                "title": "Junta Vecinal Movera"
+            },
+            "barrio": {
+                "id": 8,
+                "title": "La Paz"
+            },
+            "etiqueta": "11",
+            "codPos": "50194",
+            "lastUpdated": "2014-11-13T00:00:00Z",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    681421.38,
+                    4613274.38
+                ]
+            }
+        },
+        {
+            "id": 8700,
+            "calle": {
+                "id": 7670,
+                "title": "CLAVERIA, BR      GRP",
+                "title_ext": "CLAVERÍA",
+                "tipo": {
+                    "code": "BR",
+                    "name": "Barrio",
+                    "short_name": "Barrio",
+                    "abbr": "Br.",
+                    "scheme": "http://www.zaragoza.es/api/kos/urbanismo-infraestructuras/callejero/tipovia",
+                    "match": "http://vocab.linkeddata.es/datosabiertos/kos/urbanismo-infraestructuras/tipo-via/BARRO"
+                }
+            },
+            "numero": 11,
+            "junta": {
+                "id": 17,
+                "title": "Junta Vecinal Garrapinillos"
+            },
+            "barrio": {
+                "id": 4,
+                "title": "Casco Histórico"
+            },
+            "etiqueta": "11",
+            "codPos": "50190",
+            "lastUpdated": "2014-11-13T00:00:00Z",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    663244.86,
+                    4617337.57
+                ]
+            }
+        },
+        {
+            "id": 8701,
+            "calle": {
+                "id": 7790,
+                "title": "COGULLADA, CARRETERA",
+                "title_ext": "COGULLADA",
+                "tipo": {
+                    "code": "CT",
+                    "name": "Carretera",
+                    "short_name": "Carretera",
+                    "abbr": "Crt.",
+                    "scheme": "http://www.zaragoza.es/api/kos/urbanismo-infraestructuras/callejero/tipovia",
+                    "match": "http://vocab.linkeddata.es/datosabiertos/kos/urbanismo-infraestructuras/tipo-via/CTRA"
+                }
+            },
+            "numero": 11,
+            "junta": {
+                "id": 6,
+                "title": "Junta Municipal El Rabal"
+            },
+            "etiqueta": "11",
+            "codPos": "50014",
+            "lastUpdated": "2014-11-13T00:00:00Z",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    678296.81,
+                    4615748.36
+                ]
+            }
+        },
+        {
+            "id": 8703,
+            "calle": {
+                "id": 8040,
+                "title": "COLON, CRISTOBAL",
+                "title_ext": "CRISTÓBAL COLÓN",
+                "tipo": {
+                    "code": "CL",
+                    "name": "Calle",
+                    "short_name": "Calle",
+                    "abbr": "Cl.",
+                    "scheme": "http://www.zaragoza.es/api/kos/urbanismo-infraestructuras/callejero/tipovia",
+                    "match": "http://vocab.linkeddata.es/datosabiertos/kos/urbanismo-infraestructuras/tipo-via/CALLE"
+                }
+            },
+            "numero": 11,
+            "junta": {
+                "id": 4,
+                "title": "Junta Municipal Centro"
+            },
+            "etiqueta": "11",
+            "codPos": "50007",
+            "lastUpdated": "2014-11-13T00:00:00Z",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    676252.68,
+                    4612268.19
+                ]
+            }
+        },
+        {
+            "id": 8706,
+            "calle": {
+                "id": 13999,
+                "title": "HERRERO, ANA ISABEL ",
+                "title_ext": "ANA ISABEL HERRERO (JESÚS COMÍN)",
+                "tipo": {
+                    "code": "CL",
+                    "name": "Calle",
+                    "short_name": "Calle",
+                    "abbr": "Cl.",
+                    "scheme": "http://www.zaragoza.es/api/kos/urbanismo-infraestructuras/callejero/tipovia",
+                    "match": "http://vocab.linkeddata.es/datosabiertos/kos/urbanismo-infraestructuras/tipo-via/CALLE"
+                }
+            },
+            "numero": 11,
+            "junta": {
+                "id": 4,
+                "title": "Junta Municipal Centro"
+            },
+            "etiqueta": "11",
+            "codPos": "50008",
+            "lastUpdated": "2014-11-13T00:00:00Z",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    676322.9,
+                    4612379.45
+                ]
+            }
+        },
+        {
+            "id": 8707,
+            "calle": {
+                "id": 8140,
+                "title": "CONCEPCION        CRT",
+                "title_ext": "CONCEPCIÓN",
+                "tipo": {
+                    "code": "CL",
+                    "name": "Calle",
+                    "short_name": "Calle",
+                    "abbr": "Cl.",
+                    "scheme": "http://www.zaragoza.es/api/kos/urbanismo-infraestructuras/callejero/tipovia",
+                    "match": "http://vocab.linkeddata.es/datosabiertos/kos/urbanismo-infraestructuras/tipo-via/CALLE"
+                }
+            },
+            "numero": 11,
+            "junta": {
+                "id": 15,
+                "title": "Junta Vecinal La Cartuja Baja"
+            },
+            "barrio": {
+                "id": 2,
+                "title": "Almozara"
+            },
+            "etiqueta": "11",
+            "codPos": "50720",
+            "lastUpdated": "2014-11-13T00:00:00Z",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    681621.68,
+                    4608294.97
+                ]
+            }
+        },
+        {
+            "id": 8710,
+            "calle": {
+                "id": 8215,
+                "title": "CONSTITUCION, AV. CST",
+                "title_ext": "CONSTITUCIÓN",
+                "tipo": {
+                    "code": "AV",
+                    "name": "Avenida",
+                    "short_name": "Avenida",
+                    "abbr": "Av.",
+                    "scheme": "http://www.zaragoza.es/api/kos/urbanismo-infraestructuras/callejero/tipovia",
+                    "match": "http://vocab.linkeddata.es/datosabiertos/kos/urbanismo-infraestructuras/tipo-via/AVDA"
+                }
+            },
+            "numero": 11,
+            "junta": {
+                "id": 16,
+                "title": "Junta Vecinal Casetas"
+            },
+            "barrio": {
+                "id": 3,
+                "title": "Arrabal"
+            },
+            "etiqueta": "11",
+            "codPos": "50620",
+            "lastUpdated": "2014-11-13T00:00:00Z",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    664376.37,
+                    4620882.66
+                ]
+            }
+        },
+        {
+            "id": 8711,
+            "calle": {
+                "id": 8220,
+                "title": "CONTAMINA",
+                "title_ext": "CONTAMINA",
+                "tipo": {
+                    "code": "CL",
+                    "name": "Calle",
+                    "short_name": "Calle",
+                    "abbr": "Cl.",
+                    "scheme": "http://www.zaragoza.es/api/kos/urbanismo-infraestructuras/callejero/tipovia",
+                    "match": "http://vocab.linkeddata.es/datosabiertos/kos/urbanismo-infraestructuras/tipo-via/CALLE"
+                }
+            },
+            "numero": 11,
+            "junta": {
+                "id": 3,
+                "title": "Junta Municipal Casco Histórico"
+            },
+            "etiqueta": "11",
+            "codPos": "50003",
+            "lastUpdated": "2014-11-13T00:00:00Z",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    676524.62,
+                    4613861.48
+                ]
+            }
+        },
+        {
+            "id": 8714,
+            "calle": {
+                "id": 8400,
+                "title": "CORTES, LAS",
+                "title_ext": "LAS CORTES",
+                "tipo": {
+                    "code": "CL",
+                    "name": "Calle",
+                    "short_name": "Calle",
+                    "abbr": "Cl.",
+                    "scheme": "http://www.zaragoza.es/api/kos/urbanismo-infraestructuras/callejero/tipovia",
+                    "match": "http://vocab.linkeddata.es/datosabiertos/kos/urbanismo-infraestructuras/tipo-via/CALLE"
+                }
+            },
+            "numero": 11,
+            "junta": {
+                "id": 2,
+                "title": "Junta Municipal La Almozara"
+            },
+            "etiqueta": "11-13",
+            "codPos": "50003",
+            "lastUpdated": "2014-11-13T00:00:00Z",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    675231.48,
+                    4614463.14
+                ]
+            }
+        },
+        {
+            "id": 8715,
+            "calle": {
+                "id": 8420,
+                "title": "CORTES, HERNAN",
+                "title_ext": "HERNÁN CORTÉS",
+                "tipo": {
+                    "code": "CL",
+                    "name": "Calle",
+                    "short_name": "Calle",
+                    "abbr": "Cl.",
+                    "scheme": "http://www.zaragoza.es/api/kos/urbanismo-infraestructuras/callejero/tipovia",
+                    "match": "http://vocab.linkeddata.es/datosabiertos/kos/urbanismo-infraestructuras/tipo-via/CALLE"
+                }
+            },
+            "numero": 11,
+            "junta": {
+                "id": 4,
+                "title": "Junta Municipal Centro"
+            },
+            "etiqueta": "11",
+            "codPos": "50004",
+            "lastUpdated": "2014-11-13T00:00:00Z",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    675909.71,
+                    4613148.3
+                ]
+            }
+        },
+        {
+            "id": 8717,
+            "calle": {
+                "id": 8480,
+                "title": "CORUÑA, LA",
+                "title_ext": "LA CORUÑA",
+                "tipo": {
+                    "code": "CL",
+                    "name": "Calle",
+                    "short_name": "Calle",
+                    "abbr": "Cl.",
+                    "scheme": "http://www.zaragoza.es/api/kos/urbanismo-infraestructuras/callejero/tipovia",
+                    "match": "http://vocab.linkeddata.es/datosabiertos/kos/urbanismo-infraestructuras/tipo-via/CALLE"
+                }
+            },
+            "numero": 11,
+            "junta": {
+                "id": 10,
+                "title": "Junta Municipal Torrero"
+            },
+            "etiqueta": "11",
+            "codPos": "50007",
+            "lastUpdated": "2014-11-13T00:00:00Z",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    676227.74,
+                    4610826.2
+                ]
+            }
+        },
+        {
+            "id": 8721,
+            "calle": {
+                "id": 8660,
+                "title": "CRUCES, LAS       PÑF",
+                "title_ext": "LAS CRUCES",
+                "tipo": {
+                    "code": "CL",
+                    "name": "Calle",
+                    "short_name": "Calle",
+                    "abbr": "Cl.",
+                    "scheme": "http://www.zaragoza.es/api/kos/urbanismo-infraestructuras/callejero/tipovia",
+                    "match": "http://vocab.linkeddata.es/datosabiertos/kos/urbanismo-infraestructuras/tipo-via/CALLE"
+                }
+            },
+            "numero": 11,
+            "junta": {
+                "id": 23,
+                "title": "Junta Vecinal Peñaflor"
+            },
+            "barrio": {
+                "id": 9,
+                "title": "Las Fuentes"
+            },
+            "etiqueta": "11",
+            "codPos": "50193",
+            "lastUpdated": "2014-11-13T00:00:00Z",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    683198.95,
+                    4625752.47
+                ]
+            }
+        },
+        {
+            "id": 8722,
+            "calle": {
+                "id": 8780,
+                "title": "CUATRO DE AGOSTO",
+                "title_ext": "CUATRO DE AGOSTO",
+                "tipo": {
+                    "code": "CLP",
+                    "name": "Calle peatonal",
+                    "short_name": "Calle",
+                    "abbr": "Cl.",
+                    "scheme": "http://www.zaragoza.es/api/kos/urbanismo-infraestructuras/callejero/tipovia",
+                    "match": "http://vocab.linkeddata.es/datosabiertos/kos/urbanismo-infraestructuras/tipo-via/CALLE"
+                }
+            },
+            "numero": 11,
+            "junta": {
+                "id": 3,
+                "title": "Junta Municipal Casco Histórico"
+            },
+            "etiqueta": "11",
+            "codPos": "50003",
+            "lastUpdated": "2014-11-13T00:00:00Z",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    676573.25,
+                    4613640.8
+                ]
+            }
+        },
+        {
+            "id": 8724,
+            "calle": {
+                "id": 8820,
+                "title": "CUELLAR, PASEO DE",
+                "title_ext": "DE CUÉLLAR",
+                "tipo": {
+                    "code": "PS",
+                    "name": "Paseo",
+                    "short_name": "Paseo",
+                    "abbr": "Ps.",
+                    "scheme": "http://www.zaragoza.es/api/kos/urbanismo-infraestructuras/callejero/tipovia",
+                    "match": "http://vocab.linkeddata.es/datosabiertos/kos/urbanismo-infraestructuras/tipo-via/PASEO"
+                }
+            },
+            "numero": 11,
+            "junta": {
+                "id": 9,
+                "title": "Junta Municipal San José"
+            },
+            "etiqueta": "11",
+            "codPos": "50007",
+            "lastUpdated": "2014-11-13T00:00:00Z",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    676268.88,
+                    4612024.37
+                ]
+            }
+        },
+        {
+            "id": 8728,
+            "calle": {
+                "id": 8980,
+                "title": "CHUECA (MAESTRO)",
+                "title_ext": "MAESTRO CHUECA",
+                "tipo": {
+                    "code": "CL",
+                    "name": "Calle",
+                    "short_name": "Calle",
+                    "abbr": "Cl.",
+                    "scheme": "http://www.zaragoza.es/api/kos/urbanismo-infraestructuras/callejero/tipovia",
+                    "match": "http://vocab.linkeddata.es/datosabiertos/kos/urbanismo-infraestructuras/tipo-via/CALLE"
+                }
+            },
+            "numero": 11,
+            "junta": {
+                "id": 9,
+                "title": "Junta Municipal San José"
+            },
+            "etiqueta": "11",
+            "codPos": "50007",
+            "lastUpdated": "2014-11-13T00:00:00Z",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    676598.08,
+                    4611649.19
+                ]
+            }
+        },
+        {
+            "id": 8730,
+            "calle": {
+                "id": 9040,
+                "title": "DAMAS, PASEO DE LAS",
+                "title_ext": "DE LAS DAMAS",
+                "tipo": {
+                    "code": "PS",
+                    "name": "Paseo",
+                    "short_name": "Paseo",
+                    "abbr": "Ps.",
+                    "scheme": "http://www.zaragoza.es/api/kos/urbanismo-infraestructuras/callejero/tipovia",
+                    "match": "http://vocab.linkeddata.es/datosabiertos/kos/urbanismo-infraestructuras/tipo-via/PASEO"
+                }
+            },
+            "numero": 11,
+            "junta": {
+                "id": 4,
+                "title": "Junta Municipal Centro"
+            },
+            "etiqueta": "11",
+            "codPos": "50008",
+            "lastUpdated": "2014-11-13T00:00:00Z",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    676302.33,
+                    4612775.65
+                ]
+            }
+        }
+    ]
+}
