@@ -7,9 +7,12 @@ import json
 with open("ejerciciojson.json") as archivo:
 	doc=json.load(archivo)
 
-codigo=raw_input("Dime el código de la calle: ")
+codigo=int(raw_input("Dime el código de la calle: "))
 
 for idcalle in doc["result"]:
 	if idcalle["calle"]["id"] == codigo:
-		print idcalle["calle"]["title"]
+		print ""
+		print "CODIGO calle: ",idcalle["calle"]["id"]
+		print "NOMBRE calle: ",idcalle["calle"]["title"]
+		
 	
