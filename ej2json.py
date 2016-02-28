@@ -7,6 +7,8 @@ import json
 with open("ejerciciojson.json") as archivo:
 	doc=json.load(archivo)
 
-for calles in doc:
-	print len(calles)	
-	
+nombre=doc["result"]
+
+print ""
+print "NUMERO de calles en Zaragoza: ",len(nombre)
+print ""
