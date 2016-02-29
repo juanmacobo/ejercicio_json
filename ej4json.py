@@ -7,9 +7,12 @@ import json
 with open("ejerciciojson.json") as archivo:
 	doc=json.load(archivo)
 
+print ""
 codigopostal=raw_input("Dime el codigo postal: ")
 
 for cod in doc["result"]:
 	if cod["codPos"] == codigopostal:
-		print cod["calle"]["title"]
-		
+		print ""
+		print "CODIGO POSTAL: ",cod["codPos"]
+		print "NOMBRE calle: ",cod["calle"]["title"]
+		print "COORDENADAS calle: ",cod["geometry"]["coordinates"]
