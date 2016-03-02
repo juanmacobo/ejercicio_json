@@ -9,6 +9,6 @@ with open("ejerciciojson.json") as archivo:
 
 cont=0
 for barrios in doc["result"]:
-	if barrios["calle"]["tipo"]["name"] == barrio:
+	if barrios["calle"]["tipo"]["name"] == "Barrio":
 		cont=cont+1
 print cont		
