@@ -7,34 +7,16 @@ import json
 with open("ejerciciojson.json") as archivo:
 	doc=json.load(archivo)
 
-
-b=doc["result"]
+print ""
 cont=0
-for ba in b:
-	count=0
-	for s in ba:
-		if s == "barrio":
-			count=count+1
-	if count>0:
+for b in doc["result"]:
+	contador=0
+	for barrios in b:
+		if barrios == "barrio":
+			contador=contador+1
+	if contador>0:		
 		cont=cont+1	
-print cont		
-
-
-
-#b=doc["result"]
-
-#for ba in b:
-#	count=0
-#	for s in ba:
-#		if s == "barrio":
-#			count=count+1
-#	print count		
-#if = 1 ... +1
-
-
-
-#cont=0
-#for barrios in doc["result"]:
-#	if barrios["calle"]["tipo"]["name"] == "Barrio":
-#		cont=cont+1
-#print cont		
+		print "NOMBRE barrio: ",b["barrio"]["title"]	
+print ""			
+print "En la ciudad hay un total de ",cont,"barrios."	
+print ""
