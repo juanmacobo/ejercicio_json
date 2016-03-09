@@ -8,3 +8,5 @@
 4- Pedir por teclado el codigo postal y mostrar el nombre y las coordenadas dondes se encuentra la calle.
 
 5- Programa que cuente el número de barrios que hay en la ciudad y mostrar el nombre de cada uno de ellos.
+
+6- Prueba. Genera un fichero html con las calles.
